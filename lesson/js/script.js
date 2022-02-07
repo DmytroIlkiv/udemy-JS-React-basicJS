@@ -1,4 +1,4 @@
-// "use strict";
+"use strict";
 
 // let number = 4.6;
 
@@ -75,8 +75,55 @@
 
 // console.log(2 + 2 * 2 !== '6');
 
+// if (4) {
+//     console.log("OK!");
+// } else {
+//     console.log("Error");
+// }
 
+// const num = 51;
 
+// if (num < 49) {
+//     console.log("Error");
+// } else if (num > 100){
+//     console.log("too much");
+// } else {
+//     console.log('OK!');
+// }
 
+// num === 50 ? console.log('OK!') : console.log("Error");
 
+// switch (num) {
+//     case 49:
+//         console.log("Incorrect");
+//         break;
+//     case 100: 
+//         console.log("Incorrect");
+//         break;
+//     case 50:
+//         console.log("Correctly");
+//         break;
+//     default:
+//         console.log("Inncorect");
+//         break;
+// }
 
+// let num = 50;
+
+// // // // while (num <= 55) {
+// // // //     console.log(num);
+// // // //     num++;
+// // // // }
+
+// // // // do {
+// // // //     console.log(num);
+// // // //     num++;
+// // // // } while (num <= 55);
+
+// for (let i = 1; i < 8; i++) {
+//     if (i === 6){
+//         // break;
+//         continue;
+//     }
+//     console.log(i);
+// }
